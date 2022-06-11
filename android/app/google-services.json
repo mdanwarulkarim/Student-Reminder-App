@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330658074540",
+    "project_id": "student-reminder-c2068",
+    "storage_bucket": "student-reminder-c2068.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330658074540:android:57b67fb2f96cf626dd7409",
+        "android_client_info": {
+          "package_name": "com.student.student_reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330658074540-nvmv935roetj5gos1hbi5op7g6pah2hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTgu6Zc3_km2I1MTKeZ1UppEA1arG-l-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330658074540-nvmv935roetj5gos1hbi5op7g6pah2hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
